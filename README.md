@@ -4,13 +4,6 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=terminal&bg_color=000000&title_color=BFFF00&text_color=ffffff&icon_color=BFFF00&hide_border=false&include_all_commits=true&count_private=true&custom_title=DEVELOPER%20STATS" alt="bvzrays stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=terminal&bg_color=000000&title_color=BFFF00&text_color=ffffff&hide_border=false" alt="bvzrays langs" />
-
-  <br/>
 
 </div>
 
