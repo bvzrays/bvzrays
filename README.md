@@ -10,11 +10,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=terminal&bg_color=000000&title_color=BFFF00&text_color=ffffff&hide_border=false" alt="bvzrays top langs" />
 
-  <br/>
-
-  <a href="https://www.thegitcity.com/dev/bvzrays">
-    <img src="https://img.shields.io/badge/VIEW%20IN%20CITY-BFFF00?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
 
 </div>
 
