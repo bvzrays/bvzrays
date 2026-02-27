@@ -16,8 +16,9 @@
 </picture>
 
 ### 💻 正在学习 | 
-[Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=BFFF00) [C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=BFFF00)
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ---
 
