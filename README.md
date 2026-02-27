@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20bvzrays&fontSize=70&desc=Welcome%20to%20my%20Github%20profile&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=250&section=header&text=Hi,%20I'm%20bvzrays&fontSize=70&desc=Welcome%20to%20my%20Github%20profile&descAlignY=70&descAlign=50)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake-dark.svg">
