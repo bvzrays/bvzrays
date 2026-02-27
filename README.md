@@ -16,13 +16,8 @@
 
 ---
 
-### 📊 GitHub 统计
-![My GitHub Metrics](github-metrics.svg)
-
----
-
 <p align="center">
-  <img src="./profile_views_badge.svg" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&bg_color=30,00d2ff,3a7bd5&hide_border=true&card_width=600" alt="Stats Card" />
 </p>
 
 ---
