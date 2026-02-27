@@ -2,14 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=BVZ%20RAYS&fontSize=80&fontColor=BFFF00&fontAlignY=40&desc=%234798%20IN%20THE%20CITY&descSize=20&descAlignY=65" />
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=terminal&bg_color=000000&title_color=BFFF00&text_color=ffffff&icon_color=BFFF00&hide_border=false" alt="bvzrays github stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=terminal&bg_color=000000&title_color=BFFF00&text_color=ffffff&hide_border=false" alt="bvzrays top langs" />
-
+ 
 
 </div>
 
