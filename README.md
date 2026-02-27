@@ -4,9 +4,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=90)
 
----
-
-### 🐍 My Contributions Snake
 ![Snake animation](https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake.svg)
 
 ---
