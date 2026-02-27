@@ -8,13 +8,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake.svg">
 </picture>
 
+### 🔭 我目前正在学习 **Python** 和 **C++**
 ---
-
-### 💫 关于我
-- 🔭 我目前正在学习 **Python** 和 **C++**
-
----
-
 ### 🛠️ 技能栈
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
