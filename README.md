@@ -10,6 +10,7 @@
 
 ### 💫 关于我
 - 🔭 我目前正在学习 **Python** 和 **C++**
+
 ---
 
 ### 🛠️ 技能栈
@@ -39,6 +40,5 @@
 ### 📬 找到我
 [![QQ](https://img.shields.io/badge/QQ-1372627285-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1372627285)
 [![Gmail](https://img.shields.io/badge/Gmail-bvzrays@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bvzrays@gmail.com)
-[![QQ Email](https://img.shields.io/badge/QQ_Email-1372627285@qq.com-004ea1?style=flat-square&logo=tencent-qq&logoColor=white)](mailto:1372627285@qq.com)
 
 </div>
