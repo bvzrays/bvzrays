@@ -18,10 +18,7 @@
 
 ### 📊 GitHub 统计
 ![My GitHub Metrics](github-metrics.svg)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=vue-dark" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=vue-dark" alt="Top Langs" />
-</p>
+
 
 ---
 
