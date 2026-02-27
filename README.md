@@ -1,7 +1,6 @@
 <div align="center">
 
-[![横幅名片](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20I'm%20Xiaoming&fontSize=50&fontAlignY=38&desc=A%20Passionate%20Frontend%20Developer)
-](https://www.thegitcity.com/dev/bvzrays)
+https://www.thegitcity.com/dev/bvzrays
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake-dark.svg">
