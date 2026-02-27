@@ -1,61 +1,31 @@
 name: Update Profile Views
-
 on:
-  schedule:
-    - cron: "0 * * * *" # 每小时运行一次，更新访问量
-  workflow_dispatch: # 允许手动触发
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
 
 jobs:
   update-views:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # 允许写入文件到仓库
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Fetch views count
-        id: fetch_views
+      - name: Update Count and Generate Badge
         run: |
-          # 模拟获取一个访问量（这里为了演示，直接用一个变量模拟，实际可以集成真实的访问计数服务）
-          # 真实的访问计数可以集成例如 'profile-counter.glitch.me' 但这又回到了依赖第三方的问题
-          # 为了完全避免第三方服务，我们这里简化为固定值或者基于某个历史文件的递增
+          # 如果不存在则创建计数文件
+          [ -f views.txt ] || echo 0 > views.txt
+          COUNT=$(($(cat views.txt) + 1))
+          echo $COUNT > views.txt
           
-          # 实际应用中，如果需要真实计数，你可以考虑：
-          # 1. 每次 run 时，读取 github-views.svg 文件中的数字，然后+1
-          # 2. 或者在你的个人主页图片引用中加入一个 profile-counter.glitch.me 的隐藏图片，让它计数
-          #    这里为了纯自托管，我们暂时不集成外部计数服务。
-          
-          # 简化为：如果文件存在，就读取数字加1，否则从1开始
-          VIEWS_FILE="views.txt"
-          if [ -f "$VIEWS_FILE" ]; then
-            CURRENT_VIEWS=$(cat "$VIEWS_FILE")
-            NEW_VIEWS=$((CURRENT_VIEWS + 1))
-          else
-            NEW_VIEWS=1
-          fi
-          echo "$NEW_VIEWS" > "$VIEWS_FILE"
-          echo "::set-output name=views::$(cat $VIEWS_FILE)"
+          # 生成一个漂亮的渐变背景徽章 (自定义颜色在这里改)
+          # color=00d2ff 是亮蓝色，你可以换成 hotpink 或 橙色(ff9100)
+          curl -s "https://img.shields.io/badge/VISITS-${COUNT}-00d2ff?style=for-the-badge&logo=github" > profile_views_badge.svg
 
-      - name: Generate custom badge
+      - name: Commit and Push
         run: |
-          # 使用 Shield.io 接口生成自定义徽章
-          # label: 徽章左侧文本
-          # message: 徽章右侧文本 (这里是访问量)
-          # color: 徽章背景颜色 (可以是CSS颜色名或十六进制代码)
-          # style: 徽章样式 (flat, flat-square, for-the-badge, plastic, social)
-          
-          # 以下是自定义背景颜色的示例：
-          # 想要渐变色？可以替换成 `https://img.shields.io/badge/views-${{ steps.fetch_views.outputs.views }}-blueviolet?style=for-the-badge&logo=github`
-          # 想要特定十六进制颜色？可以替换成 `https://img.shields.io/badge/views-${{ steps.fetch_views.outputs.views }}-%23FF5733?style=for-the-badge&logo=github` (%23 是 # 的URL编码)
-          
-          BADGE_URL="https://img.shields.io/badge/views-${{ steps.fetch_views.outputs.views }}-blueviolet?style=for-the-badge&logo=github"
-          curl -s $BADGE_URL > profile_views_badge.svg
-
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           git add views.txt profile_views_badge.svg
-          git commit -m "Update profile views and badge" || echo "No changes to commit"
+          git commit -m "Update profile views" || exit 0
           git push
