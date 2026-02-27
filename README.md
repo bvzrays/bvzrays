@@ -16,12 +16,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&bg_color=30,00d2ff,3a7bd5&hide_border=true&card_width=600" alt="Stats Card" />
-</p>
-
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bvzrays&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 ---
