@@ -18,11 +18,11 @@
 
 ### 📊 GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api?username=bvzrays&show_icons=true&theme=transparent&hide_border=true" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=transparent&hide_border=true" alt="Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
