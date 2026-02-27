@@ -24,6 +24,7 @@
 <p align="center">
   <img src="profile_views_badge.svg" alt="Profile Views" />
 </p>
+
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bvzrays&theme=react-dark&bg_color=0D1117&hide_border=true)
