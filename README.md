@@ -15,10 +15,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake.svg">
 </picture>
 
-### 🔭 我目前正在学习
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### 💻 技术栈 | TECH STACK
+- ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=BFFF00)
+- ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=BFFF00)/>
 </p>
 
 ---
