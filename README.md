@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="profile_views_badge.svg" alt="Profile Views" />
+  <img src="./profile_views_badge.svg" alt="Profile Views" />
 </p>
 
 ---
