@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=BVZ%20RAYS&fontSize=80&fontColor=BFFF00&fontAlignY=40&desc=%234798%20IN%20THE%20CITY&descSize=20&descAlignY=65" />
 
- 
 
 </div>
 
