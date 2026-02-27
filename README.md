@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🌊 Hi, I'm bvzrays 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20bvzrays&fontSize=70&desc=Welcome%20to%20my%20Github%20profile&descAlignY=70&descAlign=50)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvzrays/bvzrays/output/github-snake-dark.svg">
