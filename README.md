@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=120&section=header&text=HI!%20I'm%20BvzRays&fontSize=80&fontColor=BFFF00&animation=fadeIn" />
-
-  <br/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00000000&height=120&section=header&text=HI!%20I'm%20BvzRays&fontSize=80&fontColor=BFFF00&animation=fadeIn" />
+</p>
 
 </div>
 
