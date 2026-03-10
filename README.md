@@ -26,16 +26,14 @@
 <br/>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&theme=react&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&icon_color=BFFF00&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=react&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bvzrays&show_icons=true&theme=react&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&icon_color=BFFF00&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bvzrays&layout=compact&theme=react&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&hide_border=true&langs_count=6" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvzrays&show_icons=true&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&icon_color=BFFF00&hide_border=true&count_private=true" alt="BvzRays's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvzrays&layout=compact&bg_color=0D1117&title_color=BFFF00&text_color=FFFFFF&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=bvzrays&theme=react-dark&bg_color=0D1117&color=BFFF00&line=BFFF00&point=FFFFFF&hide_border=true" />
 </p>
 
 <br/>
