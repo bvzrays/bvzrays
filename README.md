@@ -40,7 +40,7 @@
 
 ---
 
-### 📬 CONTACT ME
+### 📬 CONTACT
 <p align="center">
   <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1372627285">
     <img src="https://img.shields.io/badge/QQ-1372627285-000000?style=for-the-badge&logo=tencent-qq&logoColor=BFFF00" />
