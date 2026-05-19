@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1016" height="414" alt="qq_pic_merged_1778417543729" src="https://github.com/user-attachments/assets/0d233bce-2077-45bb-9072-1a0aafb9ff82" />
+<img width="2101" height="656" alt="image" src="https://github.com/user-attachments/assets/9b5b1f47-41c1-409f-bb10-d73954badc9c" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=00000000&height=120&section=header&text=HI!%20I'm%20BvzRays&fontSize=80&fontColor=70B5FF&animation=fadeIn" />
 </p>
