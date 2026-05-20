@@ -1,8 +1,5 @@
 <div align="center">
 <img width="2101" height="656" alt="image" src="https://github.com/user-attachments/assets/9b5b1f47-41c1-409f-bb10-d73954badc9c" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00000000&height=120&section=header&text=HI!%20I'm%20BvzRays&fontSize=80&fontColor=70B5FF&animation=fadeIn" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=70B5FF&center=true&vCenter=true&width=800&height=50&lines=WELCOME+TO+MY+PAGE;STUDYING+C%2B%2B+%26+PYTHON" alt="Typing SVG" />
