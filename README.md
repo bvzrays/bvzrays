@@ -41,9 +41,11 @@
 <br/>
 
 <div align="center">
+
 ---
 
 ### 📬 CONTACT ME
+
 <p align="center">
   <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1372627285">
     <img src="https://img.shields.io/badge/QQ-1372627285-000000?style=for-the-badge&logo=tencent-qq&logoColor=70B5FF" />
@@ -51,6 +53,15 @@
   <a href="mailto:bvzrays@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-BVZRAYS-000000?style=for-the-badge&logo=gmail&logoColor=70B5FF" />
   </a>
+  <a href="https://afdian.com/a/bvzrays">
+    <img src="https://img.shields.io/badge/爱发电-赞助我-000000?style=for-the-badge&logo=buymeacoffee&logoColor=70B5FF" />
+  </a>
 </p>
+
+<br/>
+
+<a href="https://afdian.com/a/bvzrays" target="_blank">
+  <img width="300" alt="爱发电赞助卡片" src="https://github.com/user-attachments/assets/f1671b95-fd87-4c73-a5ae-3f04cb627fd7" style="border-radius: 12px; border: 1px solid #70B5FF33;" />
+</a>
 
 </div>
