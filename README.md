@@ -60,7 +60,7 @@
 
 <br/>
 
-<a href="https://afdian.com/a/bvzrays" target="_blank">
+<a href="https://afdian.com/a/bvzrays1372627285" target="_blank">
   <img width="300" alt="爱发电赞助卡片" src="https://github.com/user-attachments/assets/f1671b95-fd87-4c73-a5ae-3f04cb627fd7" style="border-radius: 12px; border: 1px solid #70B5FF33;" />
 </a>
 
